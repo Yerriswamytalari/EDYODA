@@ -1,0 +1,385 @@
+#header{
+    display: flex;
+   /* background-color: antiquewhite; */
+    height: 60px;
+    
+}
+
+#h1{
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to right, #0cafff , blue);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+
+
+#select1{
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 40px;
+    border: none;
+}
+
+#select2{
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 40px;
+    border: none;
+}
+
+#btn1{
+    height: 40px;
+    margin-left: 60px;
+    margin-top: 10px;
+    border: none;
+    width: 70px;
+    border-radius: 30px;
+    background-color: white;
+}
+
+#btn2{
+    height: 40px;
+    margin-left: 60px;
+    width: 150px;
+    border-radius: 30px;
+    margin-top: 10px;
+    background-color: blue;
+    border: none;
+    color: white;
+    font-size: 16px;
+}
+
+#search{
+    margin-left: 600px;
+    margin-top: 10px;
+}
+/* .................................................................................... */
+
+#para{
+    margin-left:50px;
+    padding-top: 50px;
+    
+}
+
+#para>h3{
+    margin-top: 20px;
+}
+
+#nums{
+    display: flex;
+    justify-content: space-around;  
+    padding-top: 20px;
+}
+
+#num1>h4{
+height: 37px;
+width: 40px;
+background-color: #0048ff;
+border-radius:60px;
+font-size: 24px;
+padding-top: 4px;
+padding-right: 2px;
+padding-bottom: 10px;
+color: aliceblue;
+text-align: center;
+}
+#num1>p{
+padding-left: -50px;
+}
+
+#num2>h4{
+    height: 37px;
+    width: 40px;
+    background-color: #0048ff;
+    border-radius:60px;
+    font-size: 24px;
+    padding-top: 4px;
+    padding-left: 3px;
+    padding-bottom: 5px;
+    color: aliceblue;
+    text-align: center;
+    }
+
+#num2{
+    margin-left: 100px;
+}
+#num2>p{
+    margin-left: -10px;
+}
+
+#h2{
+    margin-left: 90px;
+    margin-bottom: 20px;
+}
+
+
+#sub1{
+    border-radius: 10px;
+    height: 80px;
+    width: 500px;
+    border: 2px solid grey;
+    background-color: #d9dad7;
+    margin-left: 30px;
+}
+
+#money{
+    margin-left: 400px;
+    margin-top: -40px;
+}
+#p2{
+    margin-top: -20px;
+    font-size: 15px;
+    padding-left: 20px;
+}
+#p3{
+    margin-left: 50px;
+  
+    height: 25px;
+    width: 150px;
+    text-align: center;
+     
+    background-color: #f77171;
+    font-size: 17px;
+    font-weight: 40px;
+    border-radius: 0px 0px 5px 5px;
+    color: aliceblue;
+}
+
+#radio{
+    margin-left: 20px;
+    height: 20px;
+    width: 20px;
+   accent-color: #d9dad7;
+}
+
+#label1{
+    margin-left: 30px;
+    
+}
+
+/* ................................................................................... */
+
+#sub2{
+    margin-top: 30px;
+    border-radius: 10px;
+    height: 80px;
+    width: 500px;
+    border: 2px solid green;
+    background-color: lightgreen;
+    margin-left: 30px;
+}
+
+#label2{
+    margin-left: 30px;
+    
+}
+
+#radio2{
+    margin-left: 20px;
+    height: 20px;
+    width: 20px;
+   accent-color: green;
+}
+
+#p31{
+    margin-left: 50px;
+  
+    height: 25px;
+    width: 150px;
+    text-align: center;
+     
+    background-color: green;
+    font-size: 17px;
+    font-weight: 40px;
+    border-radius: 0px 0px 5px 5px;
+    color: aliceblue;
+}
+
+/* ................................................................ */
+
+#sub3{
+    margin-top: 30px;
+    border-radius: 10px;
+    height: 80px;
+    width: 500px;
+    border: 2px solid black;
+    margin-left: 30px;
+}
+
+#p13{
+margin-top: 10px;
+}
+#p23{
+    margin-top: -20px;
+    font-size: 15px;
+    padding-left: 20px;
+}
+
+#radio3{
+    margin-left: 20px;
+    height: 20px;
+    width: 20px;
+   accent-color: green;
+}
+
+#label3{
+    margin-left: 30px;
+    padding-top: 30px;
+}
+
+/* ............................................................................................... */
+
+#sub4{
+    margin-top: 30px;
+    border-radius: 10px;
+    height: 80px;
+    width: 500px;
+    border: 2px solid black;
+    margin-left: 30px;
+}
+
+#p14{
+margin-top: 10px;
+}
+#p24{
+    margin-top: -20px;
+    font-size: 15px;
+    padding-left: 20px;
+}
+
+#radio4{
+    margin-left: 20px;
+    height: 20px;
+    width: 20px;
+   accent-color: green;
+}
+
+#label4{
+    margin-left: 30px;
+    padding-top: 30px;
+}
+/* ....................................................................................... */
+
+#total{
+    display: flex;
+    margin-left: 40px;
+}
+#total>h6{
+    margin-left: 300px;
+}
+
+/* ............................................................................. */
+
+#sub5{
+    height: 80px;
+    width: 500px;
+    
+    margin-left: 30px;
+    border-radius: 10px;
+    background-color: #fec163;
+    border: 2px solid red;
+}
+
+#sub55{
+    display: flex;
+   
+}
+
+#sub55>p{
+    padding-top: 10px;
+    padding-left: 20px;
+    color: red;
+}
+
+#sub55>h6{
+    margin-left: 260px;
+    padding-top: 20px;
+    color: red;
+}
+
+/* .................................................................... */
+
+#icon{
+    display: flex;
+    margin-top: -10px;
+    color: red;
+}
+
+#icon>h6{
+    margin-left: 20px;
+    color: red;
+}
+
+#icon>p{
+    margin-left: 10px;
+}
+
+/* .................................................................... */
+
+#totalinc{
+    display: flex;
+    margin-left: 40px;
+    padding-top: 10px;
+
+}
+
+#totalinc>h5{
+    margin-left: 270px;
+}
+
+/* ......................................................................... */
+
+#cancel{
+    height: 40px;
+    width: 180px;
+    color: red;
+    border: 2px solid red;
+    margin-left: 37px;
+}
+
+#pay{
+    height: 40px;
+    width: 250px;
+    margin-left: 10px;
+    background-color: green;
+    color: white;
+}
+
+
+
+/* ............................................................................... */
+
+#container{
+    margin-left: 900px;
+    margin-top: -370px;
+    background-color: white;
+    height: 900px;
+    width: 550px;
+    border-radius: 10px;
+    
+}
+
+/* ........................................................................................... */
+
+#main{
+    background-color:white;
+}
+
+#body{
+    background-image: linear-gradient(to right, #040303 ,#6b728e);
+    padding-bottom: 100px;
+}
+
+#razor{
+    height: 45px;
+    width: 130px;
+    background-color:black ;
+    margin-top: 15px;
+    margin-left: 40px;
+    
+}
